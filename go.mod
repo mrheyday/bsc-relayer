@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/allegro/bigcache v1.2.1 // indirect
 	github.com/aristanetworks/goarista v0.0.0-20200429182514-19402535e24e // indirect
-	github.com/aws/aws-sdk-go v1.27.0
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/binance-chain/bsc-double-sign-sdk v1.0.0-alpha.0
 	github.com/binance-chain/go-sdk v1.2.2-0.20200520064040-fc067ad70353
 	github.com/cespare/cp v1.1.1 // indirect
@@ -33,7 +33,6 @@ require (
 	github.com/tendermint/go-amino v0.14.1
 	github.com/tendermint/tendermint v0.32.3
 	github.com/tyler-smith/go-bip39 v1.0.2 // indirect
-	google.golang.org/appengine v1.6.5 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 )
 
